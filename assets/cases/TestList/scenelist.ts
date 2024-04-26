@@ -1,4 +1,4 @@
-import { Sprite, Button, input, Input, Vec2, _decorator, Component, Node, ScrollView, Prefab, instantiate, EventGamepad, Vec3, UITransform, ScrollBar, EventTouch } from "cc";
+import { Sprite, Button, input, Input, Vec2, _decorator, Component, Node, ScrollView, Prefab, instantiate, EventGamepad, Vec3, UITransform, ScrollBar, EventTouch, CCBoolean, CCFloat, CCString } from "cc";
 import { ItemType, ListItem } from "./listitem";
 const { ccclass, property } = _decorator;
 import { BackButton } from "./backbutton";
@@ -10,7 +10,7 @@ class DisplayItems {
 }
 
 const _temp_vec3 = new Vec3();
-@ccclass("scenemanager")
+@ccclass("scenelist")
 export class SceneManager extends Component {
 
     @property({ type: Prefab })
@@ -19,7 +19,11 @@ export class SceneManager extends Component {
     foldPrefab: Prefab | null = null;
     @property({ type: ScrollView })
     scrollView: ScrollView = null!;
-
+    @property(CCFloat)
+    private testNum = 1;
+    @property({type:CCString, tooltip: '测试字段', visible: true})
+    private _abc = "s";
+    
     private _items: Node[] = [];
     private _updateTimer = 0;
     private _updateInterval = 0.2;
@@ -33,7 +37,12 @@ export class SceneManager extends Component {
     private _displayItems: DisplayItems[] = [];
     private lastFocusIndex: number = -1;
 
+    protected __preload(): void {
+        console.log("SceneManager.__preload")
+    }
+    
     onLoad() {
+        console.log("SceneManager.onLoad")
         this._itemTemplateUITrans = this.itemPrefab!.data.getComponent(UITransform)!;
         this._contentUITrans = this.scrollView.content!.getComponent(UITransform)!;
         

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.2",
+  "ver": "2.3.12",
   "importer": "fbx",
   "imported": true,
   "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791",
@@ -37,8 +37,8 @@
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@a4189"
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/light-probe/Knight/Textures/brushed_metal_rough_H.png"
       },
       "ver": "1.0.22",
       "imported": true,
@@ -64,23 +64,6 @@
       ],
       "subMetas": {}
     },
-    "95137": {
-      "importer": "gltf-embeded-image",
-      "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@95137",
-      "displayName": "",
-      "id": "95137",
-      "name": "knight_rig:file15.image",
-      "userData": {
-        "gltfIndex": 7
-      },
-      "ver": "1.0.3",
-      "imported": true,
-      "files": [
-        ".json",
-        ".png"
-      ],
-      "subMetas": {}
-    },
     "112eb": {
       "importer": "gltf-mesh",
       "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@112eb",
@@ -88,9 +71,10 @@
       "id": "112eb",
       "name": "knight_rig:Body_Material0.mesh",
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "triangleCount": 104416
       },
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -105,9 +89,10 @@
       "id": "bc42a",
       "name": "knight_rig:Shield.mesh",
       "userData": {
-        "gltfIndex": 1
+        "gltfIndex": 1,
+        "triangleCount": 15768
       },
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -122,9 +107,10 @@
       "id": "6d77a",
       "name": "knight_rig:Sword.mesh",
       "userData": {
-        "gltfIndex": 2
+        "gltfIndex": 2,
+        "triangleCount": 2065
       },
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -139,9 +125,10 @@
       "id": "303d9",
       "name": "knight_rig:polySurface579.mesh",
       "userData": {
-        "gltfIndex": 3
+        "gltfIndex": 3,
+        "triangleCount": 2
       },
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -156,9 +143,10 @@
       "id": "e8046",
       "name": "knight_rig:polySurface580.mesh",
       "userData": {
-        "gltfIndex": 4
+        "gltfIndex": 4,
+        "triangleCount": 2
       },
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -173,9 +161,10 @@
       "id": "a0575",
       "name": "knight_rig:polySurface581.mesh",
       "userData": {
-        "gltfIndex": 5
+        "gltfIndex": 5,
+        "triangleCount": 2
       },
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -190,9 +179,10 @@
       "id": "7079e",
       "name": "knight_rig:polySurface582.mesh",
       "userData": {
-        "gltfIndex": 6
+        "gltfIndex": 6,
+        "triangleCount": 2
       },
-      "ver": "1.1.0",
+      "ver": "1.1.1",
       "imported": true,
       "files": [
         ".bin",
@@ -216,7 +206,7 @@
         },
         "events": []
       },
-      "ver": "1.0.16",
+      "ver": "1.0.17",
       "imported": true,
       "files": [
         ".cconb"
@@ -308,159 +298,6 @@
       ],
       "subMetas": {}
     },
-    "6df3b": {
-      "importer": "gltf-embeded-image",
-      "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@6df3b",
-      "displayName": "",
-      "id": "6df3b",
-      "name": "knight_rig:file9.image",
-      "userData": {
-        "gltfIndex": 0
-      },
-      "ver": "1.0.3",
-      "imported": true,
-      "files": [
-        ".json",
-        ".png"
-      ],
-      "subMetas": {}
-    },
-    "28f92": {
-      "importer": "gltf-embeded-image",
-      "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@28f92",
-      "displayName": "",
-      "id": "28f92",
-      "name": "knight_rig:file11.image",
-      "userData": {
-        "gltfIndex": 1
-      },
-      "ver": "1.0.3",
-      "imported": true,
-      "files": [
-        ".json",
-        ".png"
-      ],
-      "subMetas": {}
-    },
-    "c9bf3": {
-      "importer": "gltf-embeded-image",
-      "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@c9bf3",
-      "displayName": "",
-      "id": "c9bf3",
-      "name": "knight_rig:file7.image",
-      "userData": {
-        "gltfIndex": 2
-      },
-      "ver": "1.0.3",
-      "imported": true,
-      "files": [
-        ".json",
-        ".png"
-      ],
-      "subMetas": {}
-    },
-    "a4189": {
-      "importer": "gltf-embeded-image",
-      "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@a4189",
-      "displayName": "",
-      "id": "a4189",
-      "name": "knight_rig:file12.image",
-      "userData": {
-        "gltfIndex": 3
-      },
-      "ver": "1.0.3",
-      "imported": true,
-      "files": [
-        ".json",
-        ".png"
-      ],
-      "subMetas": {}
-    },
-    "82b49": {
-      "importer": "gltf-embeded-image",
-      "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@82b49",
-      "displayName": "",
-      "id": "82b49",
-      "name": "knight_rig:file10.image",
-      "userData": {
-        "gltfIndex": 4
-      },
-      "ver": "1.0.3",
-      "imported": true,
-      "files": [
-        ".json",
-        ".png"
-      ],
-      "subMetas": {}
-    },
-    "1fd7f": {
-      "importer": "gltf-embeded-image",
-      "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@1fd7f",
-      "displayName": "",
-      "id": "1fd7f",
-      "name": "knight_rig:file17.image",
-      "userData": {
-        "gltfIndex": 5
-      },
-      "ver": "1.0.3",
-      "imported": true,
-      "files": [
-        ".json",
-        ".png"
-      ],
-      "subMetas": {}
-    },
-    "78fc1": {
-      "importer": "gltf-embeded-image",
-      "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@78fc1",
-      "displayName": "",
-      "id": "78fc1",
-      "name": "knight_rig:file16.image",
-      "userData": {
-        "gltfIndex": 6
-      },
-      "ver": "1.0.3",
-      "imported": true,
-      "files": [
-        ".json",
-        ".png"
-      ],
-      "subMetas": {}
-    },
-    "4b961": {
-      "importer": "gltf-embeded-image",
-      "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@4b961",
-      "displayName": "",
-      "id": "4b961",
-      "name": "knight_rig:file14.image",
-      "userData": {
-        "gltfIndex": 8
-      },
-      "ver": "1.0.3",
-      "imported": true,
-      "files": [
-        ".json",
-        ".png"
-      ],
-      "subMetas": {}
-    },
-    "77c3a": {
-      "importer": "gltf-embeded-image",
-      "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@77c3a",
-      "displayName": "",
-      "id": "77c3a",
-      "name": "knight_rig:file13.image",
-      "userData": {
-        "gltfIndex": 9
-      },
-      "ver": "1.0.3",
-      "imported": true,
-      "files": [
-        ".json",
-        ".png"
-      ],
-      "subMetas": {}
-    },
     "7c904": {
       "importer": "texture",
       "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@7c904",
@@ -474,8 +311,8 @@
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@6df3b"
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/light-probe/Knight/Textures/brushed_metal_rough_F.png"
       },
       "ver": "1.0.22",
       "imported": true,
@@ -497,8 +334,8 @@
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@28f92"
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/light-probe/Knight/Textures/leather_diffuse_D.png"
       },
       "ver": "1.0.22",
       "imported": true,
@@ -520,8 +357,8 @@
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@c9bf3"
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/light-probe/Knight/Textures/brushed_metal_rough_D.png"
       },
       "ver": "1.0.22",
       "imported": true,
@@ -543,8 +380,8 @@
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@82b49"
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/light-probe/Knight/Textures/cloth_diffuse_D.png"
       },
       "ver": "1.0.22",
       "imported": true,
@@ -566,8 +403,8 @@
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@1fd7f"
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/light-probe/Knight/Textures/cloth_normal_D.png"
       },
       "ver": "1.0.22",
       "imported": true,
@@ -589,8 +426,8 @@
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@78fc1"
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/light-probe/Knight/Textures/shield_final_diffuse_A.png"
       },
       "ver": "1.0.22",
       "imported": true,
@@ -612,8 +449,8 @@
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@95137"
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/light-probe/Knight/Textures/shield_final_normal_A.png"
       },
       "ver": "1.0.22",
       "imported": true,
@@ -635,8 +472,8 @@
         "magfilter": "linear",
         "mipfilter": "linear",
         "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@4b961"
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/light-probe/Knight/Textures/sword_diffuse_C.png"
       },
       "ver": "1.0.22",
       "imported": true,
@@ -658,8 +495,8 @@
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@77c3a"
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/light-probe/Knight/Textures/sword_rough_D.png"
       },
       "ver": "1.0.22",
       "imported": true,
@@ -677,7 +514,7 @@
       "userData": {
         "gltfIndex": 0
       },
-      "ver": "1.0.12",
+      "ver": "1.0.14",
       "imported": true,
       "files": [
         ".json"
@@ -689,47 +526,48 @@
     "imageMetas": [
       {
         "name": "knight_rig:file9",
-        "uri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@6df3b"
+        "uri": "db://assets/resources/light-probe/Knight/Textures/brushed_metal_rough_F.png"
       },
       {
         "name": "knight_rig:file11",
-        "uri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@28f92"
+        "uri": "db://assets/resources/light-probe/Knight/Textures/leather_diffuse_D.png"
       },
       {
         "name": "knight_rig:file7",
-        "uri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@c9bf3"
+        "uri": "db://assets/resources/light-probe/Knight/Textures/brushed_metal_rough_D.png"
       },
       {
         "name": "knight_rig:file12",
-        "uri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@a4189"
+        "uri": "db://assets/resources/light-probe/Knight/Textures/brushed_metal_rough_H.png"
       },
       {
         "name": "knight_rig:file10",
-        "uri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@82b49"
+        "uri": "db://assets/resources/light-probe/Knight/Textures/cloth_diffuse_D.png"
       },
       {
         "name": "knight_rig:file17",
-        "uri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@1fd7f"
+        "uri": "db://assets/resources/light-probe/Knight/Textures/cloth_normal_D.png"
       },
       {
         "name": "knight_rig:file16",
-        "uri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@78fc1"
+        "uri": "db://assets/resources/light-probe/Knight/Textures/shield_final_diffuse_A.png"
       },
       {
         "name": "knight_rig:file15",
-        "uri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@95137"
+        "uri": "db://assets/resources/light-probe/Knight/Textures/shield_final_normal_A.png"
       },
       {
         "name": "knight_rig:file14",
-        "uri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@4b961"
+        "uri": "db://assets/resources/light-probe/Knight/Textures/sword_diffuse_C.png"
       },
       {
         "name": "knight_rig:file13",
-        "uri": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@77c3a"
+        "uri": "db://assets/resources/light-probe/Knight/Textures/sword_rough_D.png"
       }
     ],
     "fbx": {
-      "smartMaterialEnabled": true
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
     },
     "animationImportSettings": [
       {
@@ -741,7 +579,8 @@
             "name": "Take 001",
             "from": 0,
             "to": 12.458333015441895,
-            "wrapMode": 2
+            "wrapMode": 2,
+            "previousId": "73b7f"
           }
         ]
       }
@@ -779,15 +618,15 @@
         "c12c45f3-dca3-4d8a-8226-f0bebb48a791@8e24a"
       ],
       "materials": [
-        "4d07334c-7653-4eaf-92d6-7dac945027d7",
-        "be795f4d-c0ad-47ee-905a-d88104881111",
-        "588463b2-4abd-4b2b-9463-289b30fdf52f",
-        "05653a60-aea3-4ad7-98cf-5d5b0c92d0a8",
-        "08b1d4a5-31e0-4abe-8d9d-10222794a4a7",
-        "4f324b77-3462-429f-9e2f-2c3b12a80422",
-        "a9870ae4-8c03-4aaf-a198-cb5a3b2ec606",
-        "0bc1b3d6-e118-4bd4-b051-a51a325d3fa0",
-        "e77b59e1-cb97-42c6-9c06-0639af48aa98"
+        "3f30c735-3e63-4cc3-902b-aee88df66209",
+        "af82377f-593c-481f-a22e-b0f9ddc69be2",
+        "50155f97-52ab-4f83-9b8b-acb04922a603",
+        "e3d620f1-786a-4a49-9ad4-091a36b89005",
+        "7e1893fc-c7d3-405f-a584-d3f537bf5692",
+        "9c4ea510-7445-42e8-ad3c-4f9ba2df3cc3",
+        "4bcf2800-f415-42fa-bd50-d30a9e8d27ef",
+        "c2723686-442a-4b61-990f-55629c795e63",
+        "cdad60c2-9a85-4a70-b242-48ca62347274"
       ],
       "scenes": [
         "c12c45f3-dca3-4d8a-8226-f0bebb48a791@1a7e9"
@@ -1103,6 +942,24 @@
       }
     },
     "dumpMaterials": true,
-    "materialDumpDir": "db://assets/FBX/Knight/Materials_E_Knight"
+    "materialDumpDir": "db://assets/FBX/Knight/Materials_E_Knight",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
   }
 }

@@ -1,4 +1,4 @@
-import { _decorator, Component, Vec3, tween, Quat, Tween } from "cc";
+import { _decorator, Component, Vec3, tween, Quat, Tween ,Label, Overflow} from "cc";
 const { ccclass, property, menu } = _decorator;
 
 /**

@@ -42,6 +42,7 @@ export class BackButton extends Component {
     private sceneFold?: string[];
 
     __preload() {
+        console.log("BackButton.__preload")
         const sceneInfo = assetManager.main!.config.scenes;
         const array: string[] = [];
         sceneInfo.forEach((i) => array.push(i.url));
@@ -80,6 +81,7 @@ export class BackButton extends Component {
     }
 
     onLoad() {
+        console.log("BackButton.onLoad")
         input.on(Input.EventType.GAMEPAD_INPUT, this.onGamepadInput, this);
     }
 
