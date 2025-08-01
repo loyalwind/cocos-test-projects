@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.26",
+  "ver": "1.0.27",
   "importer": "image",
   "imported": true,
   "uuid": "08f2bb86-2de6-4213-aaf2-e1fc7ad2a257",
@@ -128,7 +128,7 @@
   "userData": {
     "hasAlpha": false,
     "type": "sprite-frame",
-    "redirect": "08f2bb86-2de6-4213-aaf2-e1fc7ad2a257@f9941",
+    "redirect": "08f2bb86-2de6-4213-aaf2-e1fc7ad2a257@6c48a",
     "compressSettings": {
       "useCompressTexture": false,
       "presetId": "afI5JG+ONDCbgGbraJsAx6"

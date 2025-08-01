@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "fbx",
   "imported": true,
   "uuid": "a01bd6de-537f-46e2-b381-4e133073b368",
@@ -137,7 +137,6 @@
     "dumpMaterials": true,
     "disableMeshSplit": true,
     "materialDumpDir": "db://assets/res/model/scene/an",
-    "redirect": "a01bd6de-537f-46e2-b381-4e133073b368@9bfcb",
     "assetFinder": {
       "meshes": [
         "a01bd6de-537f-46e2-b381-4e133073b368@3dd0b",

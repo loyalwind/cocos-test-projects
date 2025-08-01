@@ -1,19 +1,19 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "3004862e-868e-4b34-95cb-f185d324e081",
   "files": [
-    "__original-animation-0.cconb"
+    "__original-animation-0.bin"
   ],
   "subMetas": {
     "57146": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "3004862e-868e-4b34-95cb-f185d324e081@57146",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -50,12 +50,12 @@
       "displayName": ""
     },
     "73b7f": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "3004862e-868e-4b34-95cb-f185d324e081@73b7f",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -74,12 +74,12 @@
       "displayName": ""
     },
     "c2696": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "3004862e-868e-4b34-95cb-f185d324e081@c2696",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -97,12 +97,12 @@
       "displayName": ""
     },
     "9292d": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "3004862e-868e-4b34-95cb-f185d324e081@9292d",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -219,7 +219,6 @@
         ]
       }
     ],
-    "redirect": "3004862e-868e-4b34-95cb-f185d324e081@d1932",
     "assetFinder": {
       "meshes": [
         "3004862e-868e-4b34-95cb-f185d324e081@3a99e"

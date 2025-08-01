@@ -1,10 +1,10 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "6656e5e3-ac92-4d84-a5ea-24e1c39e1873",
   "files": [
-    "__original-animation-0.cconb"
+    "__original-animation-0.bin"
   ],
   "subMetas": {
     "57e42": {
@@ -13,10 +13,10 @@
       "displayName": "",
       "id": "57e42",
       "name": "cocos_anim_attack.animation",
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -65,7 +65,6 @@
         ]
       }
     ],
-    "redirect": "6656e5e3-ac92-4d84-a5ea-24e1c39e1873@325cb",
     "assetFinder": {
       "meshes": [],
       "skeletons": [],

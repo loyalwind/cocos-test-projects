@@ -1,10 +1,10 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "72dc47a7-5f71-4cef-80af-e4e07998bd7a",
   "files": [
-    "__original-animation-0.cconb"
+    "__original-animation-0.bin"
   ],
   "subMetas": {
     "0a7b5": {
@@ -13,10 +13,10 @@
       "displayName": "",
       "id": "0a7b5",
       "name": "cocos_anim_walk.animation",
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -65,7 +65,6 @@
         ]
       }
     ],
-    "redirect": "72dc47a7-5f71-4cef-80af-e4e07998bd7a@6ac0b",
     "assetFinder": {
       "meshes": [],
       "skeletons": [],

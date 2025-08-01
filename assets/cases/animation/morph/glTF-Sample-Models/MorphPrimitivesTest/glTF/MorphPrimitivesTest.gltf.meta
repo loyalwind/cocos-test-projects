@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "9f0390cb-907e-4380-91d4-1c34460b00f6",
@@ -103,7 +103,6 @@
         "uri": "db://assets/cases/animation/morph/glTF-Sample-Models/MorphPrimitivesTest/glTF/uv_texture.jpg"
       }
     ],
-    "redirect": "9f0390cb-907e-4380-91d4-1c34460b00f6@73ae7",
     "assetFinder": {
       "meshes": [
         "9f0390cb-907e-4380-91d4-1c34460b00f6@490db"

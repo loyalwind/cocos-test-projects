@@ -1,23 +1,23 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36",
   "files": [
-    "__original-animation-0.cconb",
-    "__original-animation-1.cconb",
-    "__original-animation-10.cconb",
-    "__original-animation-11.cconb",
-    "__original-animation-12.cconb",
-    "__original-animation-13.cconb",
-    "__original-animation-2.cconb",
-    "__original-animation-3.cconb",
-    "__original-animation-4.cconb",
-    "__original-animation-5.cconb",
-    "__original-animation-6.cconb",
-    "__original-animation-7.cconb",
-    "__original-animation-8.cconb",
-    "__original-animation-9.cconb"
+    "__original-animation-0.bin",
+    "__original-animation-1.bin",
+    "__original-animation-10.bin",
+    "__original-animation-11.bin",
+    "__original-animation-12.bin",
+    "__original-animation-13.bin",
+    "__original-animation-2.bin",
+    "__original-animation-3.bin",
+    "__original-animation-4.bin",
+    "__original-animation-5.bin",
+    "__original-animation-6.bin",
+    "__original-animation-7.bin",
+    "__original-animation-8.bin",
+    "__original-animation-9.bin"
   ],
   "subMetas": {
     "30732": {
@@ -38,12 +38,12 @@
       "displayName": ""
     },
     "92482": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@92482",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -61,12 +61,12 @@
       "displayName": ""
     },
     "95815": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@95815",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -336,12 +336,12 @@
       "displayName": ""
     },
     "5f563": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@5f563",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -359,12 +359,12 @@
       "displayName": ""
     },
     "ca7e4": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@ca7e4",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -382,12 +382,12 @@
       "displayName": ""
     },
     "c2696": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@c2696",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -405,12 +405,12 @@
       "displayName": ""
     },
     "f4113": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@f4113",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -428,12 +428,12 @@
       "displayName": ""
     },
     "8885f": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@8885f",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -451,12 +451,12 @@
       "displayName": ""
     },
     "b84cf": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@b84cf",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -474,12 +474,12 @@
       "displayName": ""
     },
     "cdd1b": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@cdd1b",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -497,12 +497,12 @@
       "displayName": ""
     },
     "e7f91": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@e7f91",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -520,12 +520,12 @@
       "displayName": ""
     },
     "2357c": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@2357c",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -543,12 +543,12 @@
       "displayName": ""
     },
     "dc888": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@dc888",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -566,12 +566,12 @@
       "displayName": ""
     },
     "a3617": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@a3617",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -589,12 +589,12 @@
       "displayName": ""
     },
     "667e4": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@667e4",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -649,7 +649,6 @@
     "normals": 2,
     "tangents": 2,
     "dumpMaterials": true,
-    "redirect": "fffdae50-0ca7-46b5-a98f-9565a58e0c36@65afa",
     "animationImportSettings": [
       {
         "name": "Dance",

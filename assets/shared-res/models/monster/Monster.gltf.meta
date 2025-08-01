@@ -1,10 +1,10 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "3174824f-f1f2-4011-8709-15d89417ad89",
   "files": [
-    "__original-animation-0.cconb"
+    "__original-animation-0.bin"
   ],
   "subMetas": {
     "cf79d": {
@@ -26,12 +26,12 @@
       "displayName": ""
     },
     "a3140": {
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "importer": "gltf-animation",
       "uuid": "3174824f-f1f2-4011-8709-15d89417ad89@a3140",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -126,7 +126,6 @@
     "normals": 2,
     "tangents": 2,
     "dumpMaterials": false,
-    "redirect": "3174824f-f1f2-4011-8709-15d89417ad89@a07f9",
     "animationImportSettings": [
       {
         "name": "UnnamedAnimation",

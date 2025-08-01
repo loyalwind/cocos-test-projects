@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "63d75567-125d-49d3-a433-a91f5e306b9a",
@@ -152,7 +152,6 @@
     "normals": 2,
     "tangents": 2,
     "dumpMaterials": false,
-    "redirect": "63d75567-125d-49d3-a433-a91f5e306b9a@dd6d3",
     "assetFinder": {
       "meshes": [
         "63d75567-125d-49d3-a433-a91f5e306b9a@6bad4"

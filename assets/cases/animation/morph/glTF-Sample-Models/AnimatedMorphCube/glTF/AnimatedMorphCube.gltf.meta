@@ -1,10 +1,10 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "1d795f67-fa84-4827-8bb8-1d2772d596d5",
   "files": [
-    "__original-animation-0.cconb"
+    "__original-animation-0.bin"
   ],
   "subMetas": {
     "2f6d1": {
@@ -31,10 +31,10 @@
       "displayName": "",
       "id": "4e621",
       "name": "Square.animation",
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -99,7 +99,6 @@
         ]
       }
     ],
-    "redirect": "1d795f67-fa84-4827-8bb8-1d2772d596d5@cdf3a",
     "assetFinder": {
       "meshes": [
         "1d795f67-fa84-4827-8bb8-1d2772d596d5@2f6d1"

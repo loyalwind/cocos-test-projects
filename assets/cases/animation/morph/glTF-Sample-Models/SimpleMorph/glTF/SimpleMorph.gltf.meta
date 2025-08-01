@@ -1,10 +1,10 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "1566f42d-6020-4d4f-9105-565608e613a3",
   "files": [
-    "__original-animation-0.cconb"
+    "__original-animation-0.bin"
   ],
   "subMetas": {
     "bcca5": {
@@ -31,10 +31,10 @@
       "displayName": "",
       "id": "a3140",
       "name": "UnnamedAnimation.animation",
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -83,7 +83,6 @@
         ]
       }
     ],
-    "redirect": "1566f42d-6020-4d4f-9105-565608e613a3@77f57",
     "assetFinder": {
       "meshes": [
         "1566f42d-6020-4d4f-9105-565608e613a3@bcca5"

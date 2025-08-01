@@ -1,10 +1,10 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "fbx",
   "imported": true,
   "uuid": "7b1bcd94-070c-443e-b838-2ac63b35267a",
   "files": [
-    "__original-animation-0.cconb"
+    "__original-animation-0.bin"
   ],
   "subMetas": {
     "18d6f": {
@@ -28,10 +28,10 @@
         },
         "speed": 1
       },
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {}
     },
@@ -71,7 +71,6 @@
         ]
       }
     ],
-    "redirect": "7b1bcd94-070c-443e-b838-2ac63b35267a@878bd",
     "assetFinder": {
       "meshes": [],
       "skeletons": [],

@@ -1,10 +1,10 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "fbx",
   "imported": true,
   "uuid": "c12c45f3-dca3-4d8a-8226-f0bebb48a791",
   "files": [
-    "__original-animation-0.cconb"
+    "__original-animation-0.bin"
   ],
   "subMetas": {
     "30732": {
@@ -72,7 +72,7 @@
       "name": "knight_rig:Body_Material0.mesh",
       "userData": {
         "gltfIndex": 0,
-        "triangleCount": 104416
+        "triangleCount": 104418
       },
       "ver": "1.1.1",
       "imported": true,
@@ -108,7 +108,7 @@
       "name": "knight_rig:Sword.mesh",
       "userData": {
         "gltfIndex": 2,
-        "triangleCount": 2065
+        "triangleCount": 2066
       },
       "ver": "1.1.1",
       "imported": true,
@@ -206,10 +206,10 @@
         },
         "events": []
       },
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {}
     },
@@ -585,7 +585,6 @@
         ]
       }
     ],
-    "redirect": "c12c45f3-dca3-4d8a-8226-f0bebb48a791@1a7e9",
     "assetFinder": {
       "meshes": [
         "c12c45f3-dca3-4d8a-8226-f0bebb48a791@112eb",

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "f924a3e1-43d6-40c5-bb9c-b47864e37c69",
@@ -42,7 +42,6 @@
   },
   "userData": {
     "imageMetas": [],
-    "redirect": "f924a3e1-43d6-40c5-bb9c-b47864e37c69@28c31",
     "assetFinder": {
       "meshes": [
         "f924a3e1-43d6-40c5-bb9c-b47864e37c69@72704"

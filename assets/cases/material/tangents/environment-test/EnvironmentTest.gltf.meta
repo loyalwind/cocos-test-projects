@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "8c722836-849e-42f2-b198-39ef6bbfb248",
@@ -903,7 +903,6 @@
         "uri": "8c722836-849e-42f2-b198-39ef6bbfb248@74b08"
       }
     ],
-    "redirect": "8c722836-849e-42f2-b198-39ef6bbfb248@52060",
     "assetFinder": {
       "meshes": [
         "8c722836-849e-42f2-b198-39ef6bbfb248@420b6",

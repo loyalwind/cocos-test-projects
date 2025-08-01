@@ -1,10 +1,10 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "f9603bb2-d2ff-4187-87af-dc939134b972",
   "files": [
-    "__original-animation-0.cconb"
+    "__original-animation-0.bin"
   ],
   "subMetas": {
     "b6423": {
@@ -13,10 +13,10 @@
       "displayName": "",
       "id": "b6423",
       "name": "cocos_anim_run.animation",
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -65,7 +65,6 @@
         ]
       }
     ],
-    "redirect": "f9603bb2-d2ff-4187-87af-dc939134b972@6ebd2",
     "assetFinder": {
       "meshes": [],
       "skeletons": [],

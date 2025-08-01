@@ -1,10 +1,10 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "6c9158d1-15b8-463e-bc35-b2821946acad",
   "files": [
-    "__original-animation-0.cconb"
+    "__original-animation-0.bin"
   ],
   "subMetas": {
     "ab65f": {
@@ -13,10 +13,10 @@
       "displayName": "",
       "id": "ab65f",
       "name": "cocos_anim_idle.animation",
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -65,7 +65,6 @@
         ]
       }
     ],
-    "redirect": "6c9158d1-15b8-463e-bc35-b2821946acad@0ea50",
     "assetFinder": {
       "meshes": [],
       "skeletons": [],

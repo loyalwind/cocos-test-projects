@@ -1,10 +1,10 @@
 {
-  "ver": "2.3.12",
+  "ver": "2.3.14",
   "importer": "gltf",
   "imported": true,
   "uuid": "bb8388d8-bce9-45e6-82f3-78ec6cd1fed0",
   "files": [
-    "__original-animation-0.cconb"
+    "__original-animation-0.bin"
   ],
   "subMetas": {
     "51885": {
@@ -29,10 +29,10 @@
       "displayName": "",
       "id": "4cafd",
       "name": "cocos_anim_hurt.animation",
-      "ver": "1.0.17",
+      "ver": "1.0.18",
       "imported": true,
       "files": [
-        ".cconb"
+        ".bin"
       ],
       "subMetas": {},
       "userData": {
@@ -65,7 +65,6 @@
         ]
       }
     ],
-    "redirect": "bb8388d8-bce9-45e6-82f3-78ec6cd1fed0@51885",
     "assetFinder": {
       "meshes": [],
       "skeletons": [],
